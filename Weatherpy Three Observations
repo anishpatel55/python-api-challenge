@@ -1,0 +1,3 @@
+1. When comparing max temperature with city latitude, it is clear that the cities near the 0 degree latitude have the highest max temperature. The r-squared is high showing that there is correlation when plotting max temperature with city latitude.
+2. There is no correlation when looking at wind speed versus the city latitude. Majority of the cities wind speed is under 15 mph.
+3. I was expecting cloudiness to be more correlated versus latitude but the r-squared shows that there is no real relationship between the two at 0.30 for the northern hemisphere and 0.24 for the southern hemisphere
